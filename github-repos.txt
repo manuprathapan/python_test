@@ -1,2 +1,0 @@
-manuprathapan/odoo
-django/django
