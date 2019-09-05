@@ -1,0 +1,4 @@
+#exclude these files and folders
+__pycache__
+.pytest_cache
+.coverage
