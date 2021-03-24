@@ -62,7 +62,7 @@ pytz==2019.2
 PyYAML==5.1.2
 requests==2.22.0
 responses==0.10.6
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.2.0
 simplejson==3.16.0
 six==1.12.0
